@@ -62,4 +62,4 @@ try {
   process.exit(1);
 }
 
-console.log(`entry post: ${address}`);
+// Success is silent, like the starter's contract: the copy is the work.
